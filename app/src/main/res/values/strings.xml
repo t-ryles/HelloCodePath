@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloCodePath</string>
+    <string name="Intro">Hello World, I\'m Taj-Hakeem!\nI am 100% about Android Development!</string>
+    <string name="BTN_say_hello">Say Hello!</string>
+</resources>
