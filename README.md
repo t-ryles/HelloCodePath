@@ -1,18 +1,18 @@
-# Android Prework - *Name of App Here*
+# Android Prework - HelloCodePath
 
-Submitted by: **Your Name Here**
+Submitted by: Taj-Hakeem Ryles
 
-**Name of your app** is an android app that shows an image and introductory message, and allows pressing a button to display a Toast. 
+HelloCodePath is an android app that shows an image and introductory message, and allows pressing a button to display a Toast. 
 
-Time spent: **X** hours spent in total
+Time spent: 4 hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-* [ ] Image and introductory message displayed on screen
-* [ ] Button displayed on screen
-* [ ] Toast with message appears when button is pressed 
+* [x] Image and introductory message displayed on screen
+* [x] Button displayed on screen
+* [x] Toast with message appears when button is pressed 
 
 The following **optional** features are implemented:
 
@@ -34,10 +34,14 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
+The only challenged I face was getting the app to render on the device.
+When I orginally installed Android Studio, everything went smoothly but when I tried to run the app I kept getting the 'Unable to locate adb'.
+So uninstalled and re-installed twice, that didn't help. Finally I just downloaded the adb files replaced the current ones and restarted the program, which seemed to
+resolve the issue.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2022] [Taj-Hakeem Ryles]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
